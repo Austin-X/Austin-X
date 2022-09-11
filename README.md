@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm a student specializing in computer science at the University of Toronto. I like creating projects, solving coding problems, and learning new tools. :octocat: 🌃
 
 # Languages (Mastery)
-[{"searchTerm":"","src":"#asset-1fae717e6b3046136a7d48c763042da0","bbox":{"x":775.2222222222222,"y":151,"width":1651.5555555555554,"height":929,"scale":{"x":0.14031702466485624,"y":0.14031702466485624}},"blend":"normal","id":"2868e9b4-b6c5-4c90-8b8b-bb622e808a23","idx":2,"name":"image.png","opacity":1,"seed":1962454148,"type":"clipart","visible":true,"exportable":true,"findable":true,"lock":false,"lockTransform":false,"selectable":true}]
-
+![image](https://user-images.githubusercontent.com/32133198/189508598-0ade627b-7f34-455f-8e99-8d4ea340fab2.png)
+<a href="url"><img src="[http://url.to/image.png](https://user-images.githubusercontent.com/32133198/189508598-0ade627b-7f34-455f-8e99-8d4ea340fab2.png)" align="left" height="48" width="48" ></a>
 
 # Stats :chart_with_upwards_trend: :bar_chart:
 
