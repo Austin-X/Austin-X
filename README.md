@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm a student specializing in computer science at the University of Toronto. I like creating projects, solving coding problems, and learning new tools. :octocat: 🌃
 
 # Languages (Mastery)
-![image](https://user-images.githubusercontent.com/32133198/189508480-8819794d-e9f7-4f35-aba5-daf10b53e3f8.png =250x250)
+![](https://user-images.githubusercontent.com/32133198/189508480-8819794d-e9f7-4f35-aba5-daf10b53e3f8.png =250x250)
 
 
 # Stats :chart_with_upwards_trend: :bar_chart:
