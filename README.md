@@ -15,7 +15,7 @@
 
 ## Languages (Expert)
 ###### From left to right: Java
-<a href="url"><img src="https://user-images.githubusercontent.com/32133198/189508702-5a4ae953-7274-41f6-a782-2fb72a44a950.png" align="left" height="50" width="40" ></a><br/><br/>
+<a href="url"><img src="https://user-images.githubusercontent.com/32133198/189508702-5a4ae953-7274-41f6-a782-2fb72a44a950.png" align="left" height="50" width="40" ></a><br/><br/><br/>
 
 
 ## Languages (Proficient)
