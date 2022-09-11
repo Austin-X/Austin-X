@@ -1,5 +1,15 @@
 ### 👋 Hi there, I'm a student specializing in computer science at the University of Toronto. I like creating projects, solving coding problems, and learning new tools. :octocat: 🌃
 
+# Languages (Mastery)
+:java:
+
+
+# Stats :chart_with_upwards_trend: :bar_chart:
+
+![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Austin-X&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-X&layout=compact)](https://github.com/Austin-X/github-readme-stats)
+
 
 <!--
 **Austin-X/Austin-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +25,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: xaustin03@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love the Object Oriented Programming paradigm and I have a crush on Java
-
-
-
-# Stats :chart_with_upwards_trend: :bar_chart:
-
-![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Austin-X&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-X&layout=compact)](https://github.com/Austin-X/github-readme-stats)
