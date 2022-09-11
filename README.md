@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love the Object Oriented Programming paradigm and I have a crush on Java
 
 
-Some of my programming stats:
+# Stats :chart_with_upwards_trend: :bar_chart:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
