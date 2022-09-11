@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: xaustin03@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love the Object Oriented Programming paradigm and I have a crush on Java
+
+
+Some of my programming stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
