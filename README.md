@@ -2,7 +2,7 @@
 
 # Languages (Mastery)
 ![image](https://user-images.githubusercontent.com/32133198/189508598-0ade627b-7f34-455f-8e99-8d4ea340fab2.png)
-<a href="url"><img src="[http://url.to/image.png](https://user-images.githubusercontent.com/32133198/189508598-0ade627b-7f34-455f-8e99-8d4ea340fab2.png)" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/32133198/189508598-0ade627b-7f34-455f-8e99-8d4ea340fab2.png" align="left" height="48" width="48" ></a>
 
 # Stats :chart_with_upwards_trend: :bar_chart:
 
