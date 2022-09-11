@@ -1,6 +1,11 @@
-### 👋 Hi there, I'm a student specializing in computer science at the University of Toronto. I specialize in backend, but I can do frontend as well. I like creating projects, solving coding problems, and learning new tools. :octocat: 🌃
+# 👋 Hi there
 
-# Stats :chart_with_upwards_trend: :bar_chart:
+### :fire: Welcome to my GitHub profile. :fire:
+![](https://komarev.com/ghpvc/?username=Austin-X&color=green)
+<br/>
+
+
+## Stats :chart_with_upwards_trend: :bar_chart:
 
 ![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Austin-X&show_icons=true&theme=radical)
 
@@ -8,12 +13,12 @@
 <br/><br/>
 
 
-# Languages (Mastery)
+## Languages (Expert)
 ###### From left to right: Java
 <a href="url"><img src="https://user-images.githubusercontent.com/32133198/189508702-5a4ae953-7274-41f6-a782-2fb72a44a950.png" align="left" height="50" width="40" ></a><br/><br/>
 
 
-# Languages (Proficient)
+## Languages (Proficient)
 ###### From left to right: C, C++, Python, Turing, Perl, HTML, CSS, Javascript
 <a href="url"><img src="https://user-images.githubusercontent.com/32133198/189508740-55be071a-58fe-4936-aec6-6ebfbd78641f.png" align="left" height="50" width="50" ></a>
 <a href="url"><img src="https://user-images.githubusercontent.com/32133198/189508794-2c77a0a2-a978-4bd9-9f91-1f39c84d6bca.png" align="left" height="50" width="50" ></a>
@@ -32,7 +37,8 @@ Here are some ideas to get you started:
 -->
 
 
-# About Me
+## About Me 🌃
+### I'm a student specializing in computer science at the University of Toronto. I specialize in backend, but I can do frontend as well. I like creating projects, solving coding problems, and learning new tools. :octocat:
 - 🔭 I’m currently working on some unique and secret projects
 - 🌱 I’m currently learning advanced video game development, mastering new programming languages and tools
 - 👯 I’m looking to collaborate on any interesting Java/Python/C open-source projects
