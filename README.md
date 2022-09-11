@@ -1,5 +1,13 @@
 ### 👋 Hi there, I'm a student specializing in computer science at the University of Toronto. I specialize in backend, but I can do frontend as well. I like creating projects, solving coding problems, and learning new tools. :octocat: 🌃
 
+# Stats :chart_with_upwards_trend: :bar_chart:
+
+![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Austin-X&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-X&layout=compact)](https://github.com/Austin-X/github-readme-stats)
+<br/><br/>
+
+
 # Languages (Mastery)
 ###### From left to right: Java
 <a href="url"><img src="https://user-images.githubusercontent.com/32133198/189508702-5a4ae953-7274-41f6-a782-2fb72a44a950.png" align="left" height="50" width="40" ></a><br/><br/>
@@ -17,19 +25,14 @@
 <a href="url"><img src="https://user-images.githubusercontent.com/32133198/189509253-33760eb1-061d-451b-a61f-6d94232187ea.png" align="left" height="50" width="50" ></a><br/><br/><br/><br/>
 
 
-# Stats :chart_with_upwards_trend: :bar_chart:
-
-![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Austin-X&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-X&layout=compact)](https://github.com/Austin-X/github-readme-stats)
-
-
 <!--
 **Austin-X/Austin-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 
+
+# About Me
 - 🔭 I’m currently working on some unique and secret projects
 - 🌱 I’m currently learning advanced video game development, mastering new programming languages and tools
 - 👯 I’m looking to collaborate on any interesting Java/Python/C open-source projects
