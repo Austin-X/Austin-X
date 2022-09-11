@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm a student specializing in computer science at the University of Toronto. I like creating projects, solving coding problems, and learning new tools. :octocat: 🌃
+### 👋 Hi there, I'm a student specializing in computer science at the University of Toronto. I specialize in backend, but I can do frontend as well. I like creating projects, solving coding problems, and learning new tools. :octocat: 🌃
 
 # Languages (Mastery)
 From left to right: Java<br/><br/>
