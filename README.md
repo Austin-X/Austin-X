@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 # Stats :chart_with_upwards_trend: :bar_chart:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Austin-X/github-readme-stats)
