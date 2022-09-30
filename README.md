@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any interesting Java/Python/C open-source projects
 - 🤔 I’m looking for help with Ruby
 - 💬 Ask me about my projects, ICPC experience, any Java syntax stuff
-- 📫 How to reach me: School Email: austin.xu@mail.utoronto.ca      Personal Email: xaustin03@gmail.com
+- 📫 How to reach me: School Email: austin.xu@mail.utoronto.ca
+                       Personal Email: xaustin03@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love the Object Oriented Programming paradigm and I have a crush on Java
