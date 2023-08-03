@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about my projects, ICPC experience, any Java syntax stuff
 - 📫 How to reach me: xaustin03@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love the Object Oriented Programming paradigm and I have a crush on Java
+- ⚡ Fun fact: I love the Object Oriented Programming paradigm and I have a crush on Java and C++
