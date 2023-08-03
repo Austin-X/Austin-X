@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ### I'm a student specializing in computer science at the University of Toronto. I specialize in backend, but I can do frontend as well. I like creating projects, solving coding problems, and learning new tools. :octocat:
 - 🔭 I’m currently working on some unique and secret projects
 - 🌱 I’m currently learning advanced video game development, mastering new programming languages and tools
-- 👯 I’m looking to collaborate on any interesting Java/Python/C open-source projects
+- 👯 I’m looking to collaborate on some interesting open-source projects
 - 🤔 I’m looking for help with Ruby
 - 💬 Ask me about my projects, ICPC experience, any Java syntax stuff
 - 📫 How to reach me: xaustin03@gmail.com
