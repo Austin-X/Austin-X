@@ -16,9 +16,10 @@
 
 
 ## Languages (Intermediate)
-###### From left to right: C, C++, HTML, CSS, JavaScript, SQL
+###### From left to right: C, C++, C#, HTML, CSS, JavaScript, SQL
 <a href="url"><img src="https://user-images.githubusercontent.com/32133198/189508740-55be071a-58fe-4936-aec6-6ebfbd78641f.png" align="left" height="50" width="50" ></a>
 <a href="url"><img src="https://user-images.githubusercontent.com/32133198/189508794-2c77a0a2-a978-4bd9-9f91-1f39c84d6bca.png" align="left" height="50" width="50" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/32133198/257992695-9f034d26-7c39-4a3e-a39c-fcde05435d14.png" align="left" height="50" width="50" ></a>
 <a href="url"><img src="https://user-images.githubusercontent.com/32133198/189509160-0bac0f51-5e3e-4bc4-8a31-404570932ba6.png" align="left" height="50" width="50" ></a>
 <a href="url"><img src="https://user-images.githubusercontent.com/32133198/189509182-19b0121b-fec8-47d7-a334-6a6cf2535ed7.png" align="left" height="50" width="50" ></a>
 <a href="url"><img src="https://user-images.githubusercontent.com/32133198/189509253-33760eb1-061d-451b-a61f-6d94232187ea.png" align="left" height="50" width="50" ></a>
