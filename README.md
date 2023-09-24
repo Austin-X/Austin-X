@@ -2,6 +2,8 @@
 
 ### :fire: Welcome to my GitHub profile. :fire:
 ![](https://komarev.com/ghpvc/?username=Austin-X&color=green)
+#### Personal email: xaustin03@gmail.com
+#### School email: austin.xu@mail.utoronto.ca
 <br/>
 
 
