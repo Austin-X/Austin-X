@@ -15,7 +15,7 @@ School email: austin.xu@mail.utoronto.ca
 <br/><br/>
 
 
-## Languages (Ever since I finished high school, I'm a bit rusty in Java. C++ is my new dig)
+## Languages (After high school, I got a bit rusty in Java. C++ is my new dig)
 ###### From left to right: Java, C, C++, C#, HTML, CSS, JavaScript, SQL, Python, Turing, Perl, Bash
 <a href="url"><img src="https://user-images.githubusercontent.com/32133198/189508702-5a4ae953-7274-41f6-a782-2fb72a44a950.png" align="left" height="50" width="40" ></a>
 <a href="url"><img src="https://user-images.githubusercontent.com/32133198/189508740-55be071a-58fe-4936-aec6-6ebfbd78641f.png" align="left" height="50" width="50" ></a>
