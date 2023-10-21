@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning advanced video game development, mastering new programming languages and tools
 - 👯 I’m looking to collaborate on some interesting open-source projects
 - 🤔 I’m looking for help with Ruby
-- 💬 Ask me about my projects, ICPC experience, etc. (I'm a little bit rusty from Java ever since high school)
+- 💬 Ask me about my projects, ICPC experience, etc.
 - 📫 How to reach me: xaustin03@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love the Object Oriented Programming paradigm
