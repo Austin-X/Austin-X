@@ -10,7 +10,7 @@ School email: austin.xu@mail.utoronto.ca
 <br/>
 
 
-## Stats :chart_with_upwards_trend: :bar_chart:
+## Stats :bar_chart:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-X&layout=compact)](https://github.com/Austin-X/github-readme-stats)
 <br/><br/>
 
