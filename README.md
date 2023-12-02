@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-### :fire: Welcome to my GitHub profile. :fire:
+### Welcome to my GitHub profile
 
 ![](https://komarev.com/ghpvc/?username=Austin-X&color=green)
 
