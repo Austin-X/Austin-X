@@ -1,17 +1,9 @@
 # 👋 Hi there
-
-### Welcome to my GitHub profile
-
 ![](https://komarev.com/ghpvc/?username=Austin-X&color=green)
 
 Personal email: xaustin03@gmail.com
 
 School email: austin.xu@mail.utoronto.ca
-<br/>
-
-
-## Stats :bar_chart:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-X&layout=compact)](https://github.com/Austin-X/github-readme-stats)
 <br/><br/>
 
 
@@ -31,20 +23,12 @@ School email: austin.xu@mail.utoronto.ca
 <a href="url"><img src="https://user-images.githubusercontent.com/32133198/189545029-b41e33fa-2912-420c-9b2d-0276a7023f74.png" align="left" height="50" width="50" ></a></br></br></br></br>
 
 
-<!--
-**Austin-X/Austin-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+## Stats :bar_chart:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-X&layout=compact)](https://github.com/Austin-X/github-readme-stats)
+<br/><br/>
 
 
 ## About Me 🌃
-### I'm a student specializing in computer science at the University of Toronto. I specialize in backend, but I can do frontend as well. I like creating projects, solving coding problems, and learning new tools. :octocat:
-- 🔭 I’m currently working on some unique and secret projects
-- 🌱 I’m currently learning advanced video game development, mastering new programming languages and tools
-- 👯 I’m looking to collaborate on some interesting open-source projects
-- 🤔 I’m looking for help with Ruby
-- 💬 Ask me about my projects, ICPC experience, etc.
-- 📫 How to reach me: xaustin03@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love the Object Oriented Programming paradigm
+Currently specializing in computer science at the University of Toronto, but I might add a math major on top of it later because I'm very interested in some branches of mathematics such as topology and real analysis.
+
+At the moment, currently learning TypeScript, Ruby, GraphQL, and Material UI.
