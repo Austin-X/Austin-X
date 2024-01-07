@@ -23,7 +23,7 @@ School email: austin.xu@mail.utoronto.ca
 <a href="url"><img src="https://user-images.githubusercontent.com/32133198/189545029-b41e33fa-2912-420c-9b2d-0276a7023f74.png" align="left" height="50" width="50" ></a></br></br></br></br>
 
 
-## Stats :bar_chart:
+## Stats (in public repos) :bar_chart:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-X&layout=compact)](https://github.com/Austin-X/github-readme-stats)
 <br/><br/>
 
