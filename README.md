@@ -11,8 +11,7 @@ I'm currently specializing in computer science at the University of Toronto with
 
 I love trying out new things. I've been recently captivated by some branches of math such as topology and real analysis, as well as some topics in physics such as electromagnetism, teleportation, and time travel (particularly time travel to the past)
 
-<br/><br/>
-
+<br/>
 
 ## Languages
 ###### From left to right: Java, C, C++, C#, HTML, CSS, JavaScript, SQL, Python, Turing, Perl, Bash
