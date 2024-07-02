@@ -7,7 +7,7 @@ School email: austin.xu@mail.utoronto.ca
 
 <br/>
 
-Real Analysis, Topology, Number Theory
+**Current interests:** Real Analysis, Topology, Number Theory
 
 <br/>
 
