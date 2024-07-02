@@ -7,7 +7,7 @@ School email: austin.xu@mail.utoronto.ca
 
 <br/>
 
-I'm currently specializing in computer science at the University of Toronto with a math major on top of it. I love trying out new things. I've been recently captivated by some branches of math such as topology and real analysis, as well as some topics in physics such as electromagnetism, teleportation, and time travel (particularly time travel to the past)
+Real Analysis, Topology, Number Theory
 
 <br/>
 
