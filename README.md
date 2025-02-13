@@ -7,10 +7,6 @@ School email: austin.xu@mail.utoronto.ca
 
 <br/>
 
-**Current interests:** Real Analysis, Topology, Number Theory
-
-<br/>
-
 ## Languages
 ###### From left to right: Java, C, C++, C#, HTML, CSS, JavaScript, TypeScript, Ruby, SQL, Python, Turing, Perl, Bash
 <a href="url"><img src="https://user-images.githubusercontent.com/32133198/189508702-5a4ae953-7274-41f6-a782-2fb72a44a950.png" align="left" height="40" width="35" ></a>
